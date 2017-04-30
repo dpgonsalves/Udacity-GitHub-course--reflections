@@ -10,10 +10,9 @@ Describe the differences between forks, clones, and branches.  When would you us
 
 Use forks when cloning repositories on GitHub. Use clones when replicating repositories locally (my PC). Use branches when experimenting or adding new features, locally.
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+The benefit is that I can work locally in a disconneted mode and know that Git will be able to successfully merge all local and remote commits from the last known state.  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
