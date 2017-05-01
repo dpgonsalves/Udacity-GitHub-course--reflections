@@ -14,12 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 The benefit is that I can work locally in a disconneted mode and know that Git will be able to successfully merge all local and remote commits from the last known state.  
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier,and what would be harder?
 
-    Fill in your answer here
+Collaborating with GitHub is easier because it is keeps track of changes and warns me of conflicts. It's harder beause every collaborator has to work within the GitHub framework
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would use a branch to make changes if I wanted to experiment or to add a new feature. Thus, isolating the new feature from the mainstream code.
